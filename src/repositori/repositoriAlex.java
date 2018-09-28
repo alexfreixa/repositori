@@ -9,7 +9,7 @@ package repositori;
  *
  * @author Alex Freixa
  */
-public class Repositori {
+public class repositoriAlex {
 
     /**
      * @param args the command line arguments
