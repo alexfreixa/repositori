@@ -17,7 +17,14 @@ public class repositoriAlex {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    public void hola(){
-        System.out.println("Holamon");
+    
+    public int suma() {
+        int x = 1;
+        int y = 5;
+        return x+y;
+    }
+    
+    public static void text(){
+        System.out.println("Hola món!");
     }
 }
