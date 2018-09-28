@@ -17,5 +17,7 @@ public class Repositori {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
+    public void hola(){
+        System.out.println("Holamon");
+    }
 }
