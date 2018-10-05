@@ -21,6 +21,8 @@ public class ClasseXavi {
     
     public static void fantasma(){
         System.out.println("SOC UN FANTASMAA UUUUHH");
+        System.out.println("NO EM POTS VEURE");
+        System.out.println("PERO FAIG MOLTA POR!!!");
     }
     public static int suma(){
         return 1+2;
