@@ -25,6 +25,8 @@ public class ClasseXavi {
         System.out.println("PERO FAIG MOLTA POR!!!");
     }
     public static int suma(){
-        return 1+2;
+        System.out.print("El resultat es:");
+        return 1*2;
+        
     }
 }

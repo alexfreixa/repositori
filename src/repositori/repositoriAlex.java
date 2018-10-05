@@ -31,7 +31,7 @@ public class repositoriAlex {
     }
     
     public static void text(){
-        System.out.println("Hola món!");
-        System.out.println("Hola món!");
+        System.out.println("Hola classe!");
+        System.out.println("Hola classe!");
     }
 }
